@@ -1,0 +1,2702 @@
+Archive member included because of file (symbol)
+
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (exit)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (memset)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o) (__fill_mem)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                              ./SDK/platform/drivers/src/ftm/ftm_common.o (__aeabi_uidiv)
+c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (__init_cpp)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o) (__destroy_global_chain)
+C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+                              C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o (__copy_rom_sections_to_ram)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_xtal0ClkFreq      0x4               ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+g_RtcClkInFreq      0x4               ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+adcRawValue         0x4               ./Sources/main.o
+g_TClkFreq          0xc               ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .text.__thumb_startup
+                0x00000000       0x3c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .bss.argv      0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_info    0x00000000      0x144 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_abbrev  0x00000000       0xc0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_aranges
+                0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_line    0x00000000       0x68 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_str     0x00000000      0x270 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .debug_frame   0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .group         0x00000000        0x8 ./Sources/main.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .bss.exit_code
+                0x00000000        0x4 ./Sources/main.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_SetGlobalPinControl
+                0x00000000       0xec ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_SetGlobalIntControl
+                0x00000000       0x6c ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_GetPinsDirection
+                0x00000000       0x14 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_SetPinDirection
+                0x00000000       0x40 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_SetPinsDirection
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_WritePin
+                0x00000000       0x40 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_WritePins
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_GetPinsOutput
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_SetPins
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_ClearPins
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_TogglePins
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GPIO_ReadPins
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_SetPullSel
+                0x00000000       0x8c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_SetMuxModeSel
+                0x00000000       0x48 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_SetPinIntSel
+                0x00000000       0x48 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GetPinIntSel
+                0x00000000       0x2c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_ClearPinIntFlagCmd
+                0x00000000       0x3c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_EnableDigitalFilter
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DisableDigitalFilter
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_ConfigDigitalFilter
+                0x00000000       0x30 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_GetPortIntFlag
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_ClearPortIntFlagCmd
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPullSel
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetMuxModeSel
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPinIntSel
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinIntSel
+                0x00000000       0x20 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPinIntFlagCmd
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_EnableDigitalFilter
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_DisableDigitalFilter
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ConfigDigitalFilter
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPortIntFlag
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPortIntFlagCmd
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinsDirection
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPinDirection
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPinsDirection
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetGlobalPinControl
+                0x00000000       0x40 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetGlobalIntControl
+                0x00000000       0x40 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_WritePin
+                0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_WritePins
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinsOutput
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_SetPins
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPins
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_TogglePins
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ReadPins
+                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_ClearAdcPreTriggerFlags
+                0x00000000       0x4c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_ClearAdcPreTriggerSeqErrFlags
+                0x00000000       0x60 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_SetCmpPulseOutEnable
+                0x00000000       0x4c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_Disable
+                0x00000000       0x1c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_GetTimerIntFlag
+                0x00000000       0x24 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_ClearTimerIntFlag
+                0x00000000       0x24 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_GetTimerValue
+                0x00000000       0x18 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_SetValueForTimerInterrupt
+                0x00000000       0x28 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_GetAdcPreTriggerFlags
+                0x00000000       0x34 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_GetAdcPreTriggerSeqErrFlags
+                0x00000000       0x30 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_SetCmpPulseOutDelayForHigh
+                0x00000000       0x24 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_SetCmpPulseOutDelayForLow
+                0x00000000       0x24 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .rodata.s_pdbBase
+                0x00000000        0x4 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .rodata.s_pdbIrqId
+                0x00000000        0x1 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_Deinit
+                0x00000000       0x28 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_GetDefaultConfig
+                0x00000000       0x40 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_Disable
+                0x00000000       0x20 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_GetTimerValue
+                0x00000000       0x24 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_GetTimerIntFlag
+                0x00000000       0x24 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_ClearTimerIntFlag
+                0x00000000       0x20 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_SetValueForTimerInterrupt
+                0x00000000       0x2c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_GetAdcPreTriggerFlags
+                0x00000000       0x30 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_ClearAdcPreTriggerFlags
+                0x00000000       0x2c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_GetAdcPreTriggerSeqErrFlags
+                0x00000000       0x30 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_ClearAdcPreTriggerSeqErrFlags
+                0x00000000       0x2c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_SetCmpPulseOutEnable
+                0x00000000       0x30 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_SetCmpPulseOutDelayForHigh
+                0x00000000       0x2c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_SetCmpPulseOutDelayForLow
+                0x00000000       0x2c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .rodata.s_pdbClkNames.5716
+                0x00000000        0x1 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000     0xc63c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_SetPriority
+                0x00000000      0x118 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_GetPriority
+                0x00000000       0xd4 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_ClearPending
+                0x00000000       0x38 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_SetPending
+                0x00000000       0x38 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .text.INT_SYS_GetPending
+                0x00000000       0x3c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetCounter
+                0x00000000       0x28 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetExtDeadtimeValue
+                0x00000000       0x34 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_ClearFaultControl
+                0x00000000       0x14 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetModFracVal
+                0x00000000       0x3c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetChnMatchFracVal
+                0x00000000       0x50 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_DeinitPwm
+                0x00000000      0x178 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_UpdatePwmPeriod
+                0x00000000       0xd0 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_FastUpdatePwmChannels
+                0x00000000       0x94 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_UpdatePwmPeriodDither
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_UpdatePwmEdgeChannelDither
+                0x00000000       0x5c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0xcd ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .text.FTM_DRV_SetChnInputCaptureFilter
+                0x00000000       0xac ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x00000000       0xcd ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_ClearChnEventStatus
+                0x00000000       0x2c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetHalfCycleValue
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_ClearTimerOverflow
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_IsOverflowIntEnabled
+                0x00000000       0x24 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_HasTimerOverflowed
+                0x00000000       0x24 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetReIntEnabledCmd
+                0x00000000       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_GetReloadFlag
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_ClearReloadFlag
+                0x00000000       0x1c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_IsReloadIntEnabled
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetMod
+                0x00000000       0x28 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetCounterInitVal
+                0x00000000       0x28 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetChnEdgeLevel
+                0x00000000       0x84 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_EnableChnInt
+                0x00000000       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_DisableChnInt
+                0x00000000       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_IsChnIntEnabled
+                0x00000000       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_HasChnEventOccurred
+                0x00000000       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetOutmaskReg
+                0x00000000       0x18 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetFaultInt
+                0x00000000       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_IsFaultIntEnabled
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_ClearFaultsIsr
+                0x00000000       0x48 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_GetDetectedFaultInput
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetSoftwareTriggerCmd
+                0x00000000       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_IsChnTriggerGenerated
+                0x00000000       0x20 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_ClearChnTriggerFlag
+                0x00000000       0x1c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInvctrlReg
+                0x00000000       0x18 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetAllChnSoftwareCtrlCmd
+                0x00000000       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetAllChnSoftwareCtrlVal
+                0x00000000       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .rodata.g_ftmIrqId
+                0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .rodata.g_ftmFaultIrqId
+                0x00000000        0x2 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .rodata.g_ftmReloadIrqId
+                0x00000000        0x2 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_Deinit
+                0x00000000       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_MaskOutputChannels
+                0x00000000       0x40 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInitialCounterValue
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetHalfCycleReloadPoint
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetSoftOutChnValue
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetSoftwareOutputChannelControl
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetAllChnSoftwareOutputControl
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInvertingControl
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetModuloCounterValue
+                0x00000000       0x4c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetOutputlevel
+                0x00000000       0x44 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_EnableInterrupts
+                0x00000000       0xfc ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_DisableInterrupts
+                0x00000000       0xf8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_GetEnabledInterrupts
+                0x00000000       0xb0 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_GetStatusFlags
+                0x00000000       0xcc ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_ClearStatusFlags
+                0x00000000       0xb8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0xcd ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .text.CLOCK_SYS_GetCurrentConfiguration
+                0x00000000       0x14 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .text.CLOCK_SYS_GetErrorCallback
+                0x00000000       0x38 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_TransitionToTmpSysClk
+                0x00000000      0x108 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetCurrentSysClkConfig
+                0x00000000       0x7c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_Init
+                0x00000000       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_GetFreq
+                0x00000000       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetModuleClock
+                0x00000000      0x15c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.CLOCK_DRV_SetModuleClock
+                0x00000000       0x14 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetSystemClock
+                0x00000000      0x1a0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_GetSystemClockSource
+                0x00000000       0x84 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetClockSource
+                0x00000000      0x490 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.tmpSysClk.6112
+                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.tmpSysClk.6119
+                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.tmpSysClk.6209
+                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.sysClkDivMappings.6214
+                0x00000000       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.sysClkDivMappings.6257
+                0x00000000       0x11 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.defSysClk.6258
+                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x00000000       0x71 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text          0x00000000        0x0 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .data          0x00000000        0x0 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .bss           0x00000000        0x0 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetConvActiveFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetClockDivide
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetSampleTime
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetResolution
+                0x00000000       0x5c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetInputClock
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetTriggerMode
+                0x00000000       0x28 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetPretriggerSelect
+                0x00000000       0x8c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetTriggerSelect
+                0x00000000       0x80 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetDMAEnableFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetVoltageReference
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetContinuousConvFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwCompareEnableFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwCompareEnableFlag
+                0x00000000       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwCompareGtEnableFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwCompareGtEnableFlag
+                0x00000000       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwCompareRangeEnableFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwCompareRangeEnableFlag
+                0x00000000       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwCompareComp1Value
+                0x00000000       0x18 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwCompareComp1Value
+                0x00000000       0x20 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwCompareComp2Value
+                0x00000000       0x18 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwCompareComp2Value
+                0x00000000       0x20 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwAverageEnableFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwAverageEnableFlag
+                0x00000000       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetHwAverageMode
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetHwAverageMode
+                0x00000000       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetCalibrationActiveFlag
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetCalibrationActiveFlag
+                0x00000000       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetUserGainValue
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetUserGainValue
+                0x00000000       0xc4 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetUserOffsetValue
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetUserOffsetValue
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetChanInterruptEnableFlag
+                0x00000000       0x34 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetInputChannel
+                0x00000000       0x30 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_ClearLatchTriggers
+                0x00000000       0x1c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_GetTriggerLatchFlags
+                0x00000000       0x28 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .rodata.s_adcBase
+                0x00000000        0x4 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_InitConverterStruct
+                0x00000000       0x50 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetConverterConfig
+                0x00000000       0xe4 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_Reset
+                0x00000000       0xf4 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_InitHwCompareStruct
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_ConfigHwCompare
+                0x00000000       0x60 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetHwCompareConfig
+                0x00000000       0x68 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_InitHwAverageStruct
+                0x00000000       0x1c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_ConfigHwAverage
+                0x00000000       0x34 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetHwAverageConfig
+                0x00000000       0x38 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_InitChanStruct
+                0x00000000       0x1c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetChanConfig
+                0x00000000       0x50 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_SetSwPretrigger
+                0x00000000       0x78 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_WaitConvDone
+                0x00000000       0x24 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetConvCompleteFlag
+                0x00000000       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_AutoCalibration
+                0x00000000       0xe4 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_InitUserCalibrationStruct
+                0x00000000       0x1c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_ConfigUserCalibration
+                0x00000000       0x34 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetUserCalibration
+                0x00000000       0x38 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetInterruptNumber
+                0x00000000       0x20 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_ClearLatchedTriggers
+                0x00000000       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_ClearTriggerErrors
+                0x00000000       0x28 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_GetTriggerErrorFlags
+                0x00000000       0x2c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .rodata.adcIrqId.5547
+                0x00000000        0x1 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000      0x1af ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000     0xc63c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/startup.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/devices/startup.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/startup.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .group         0x00000000        0x8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .text          0x00000000        0x0 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .data          0x00000000        0x0 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .bss           0x00000000        0x0 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xc4 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .text.SystemSoftwareReset
+                0x00000000       0x40 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000      0x81a ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x52 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0xa0 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x6b ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x16 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x64 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000      0x185 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000      0x140 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x9d ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x10 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000      0x15b ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x28 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x58 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000     0xc62a ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000      0x8b1 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x00000000       0x22 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K116.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K116.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pin_mux.o
+ .text          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .data          0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .bss           0x00000000        0x0 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x81a ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x6b ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x64 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x185 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x140 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000     0xc62a ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000      0x8b1 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pin_mux.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/pdb1.o
+ .text          0x00000000        0x0 ./Generated_Code/pdb1.o
+ .data          0x00000000        0x0 ./Generated_Code/pdb1.o
+ .bss           0x00000000        0x0 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000      0x81a ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x6b ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x64 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000      0x185 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000      0x140 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000     0xc62a ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000      0x8b1 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x71 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0xcd ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pdb1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/pdb1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/flexTimer_pwm1.o
+ .text          0x00000000        0x0 ./Generated_Code/flexTimer_pwm1.o
+ .data          0x00000000        0x0 ./Generated_Code/flexTimer_pwm1.o
+ .bss           0x00000000        0x0 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000      0x81a ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x64 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000      0x185 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000      0x140 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x1c ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x6b ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000     0xc63c ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000      0x8b1 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x71 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0xcd ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/flexTimer_pwm1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/clockMan1.o
+ .text          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .data          0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .bss           0x00000000        0x0 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x81a ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x64 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x185 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x140 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x1c ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x6b ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000     0xc63c ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000      0x8b1 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x71 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0xcd ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/clockMan1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/clockMan1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/adConv1.o
+ .text          0x00000000        0x0 ./Generated_Code/adConv1.o
+ .data          0x00000000        0x0 ./Generated_Code/adConv1.o
+ .bss           0x00000000        0x0 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000      0x81a ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x6b ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x64 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000      0x185 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000      0x140 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000     0xc62a ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000      0x8b1 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x71 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0xcd ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/adConv1.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/adConv1.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .group         0x00000000        0x8 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .data          0x00000000        0x0 ./Generated_Code/Cpu.o
+ .bss           0x00000000        0x0 ./Generated_Code/Cpu.o
+ .debug_info    0x00000000       0x76 ./Generated_Code/Cpu.o
+ .debug_abbrev  0x00000000       0x29 ./Generated_Code/Cpu.o
+ .debug_aranges
+                0x00000000       0x18 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x1d8 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x81a ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x52 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0xa0 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x6b ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x64 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x185 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x140 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x9d ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x15b ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x28 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x58 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000     0xc62a ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000      0x8b1 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x71 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0xcd ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x22 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x16 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_macro   0x00000000       0x10 ./Generated_Code/Cpu.o
+ .debug_line    0x00000000      0x517 ./Generated_Code/Cpu.o
+ .debug_str     0x00000000    0x584d0 ./Generated_Code/Cpu.o
+ .comment       0x00000000       0x71 ./Generated_Code/Cpu.o
+ .ARM.attributes
+                0x00000000       0x32 ./Generated_Code/Cpu.o
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .text.exit     0x00000000       0x38 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .text._Exit    0x00000000        0x8 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .bss.__stdio_exit
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .bss.__console_exit
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_info    0x00000000      0x112 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_abbrev  0x00000000       0x7a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_loc     0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_aranges
+                0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_line    0x00000000       0x9e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_str     0x00000000      0x23c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .debug_frame   0x00000000       0x44 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(exit.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .text.memset   0x00000000        0xc C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_info    0x00000000       0xec C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_abbrev  0x00000000       0x62 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_loc     0x00000000       0x6f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_line    0x00000000       0x90 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_str     0x00000000      0x21f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .debug_frame   0x00000000       0x28 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(memset.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .text.__fill_mem
+                0x00000000       0x82 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_info    0x00000000      0x137 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_abbrev  0x00000000       0x78 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_loc     0x00000000      0x113 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_line    0x00000000       0xaf C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_str     0x00000000      0x231 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .debug_frame   0x00000000       0x2c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a(__filll_mem.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text.__init_cpp
+                0x00000000       0x48 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text.__fini_cpp
+                0x00000000       0x34 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text._ExitProcess
+                0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x00000000      0x14a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x00000000       0xae C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00000000       0xb3 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x00000000       0x74 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_str     0x00000000      0x28e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x00000000       0x50 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__destroy_global_chain
+                0x00000000       0x1c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xe C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0xc C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__init_registers
+                0x00000000       0x1c C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__init_hardware
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__init_user
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.__global_destructor_chain
+                0x00000000        0x4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x00000000      0x2b5 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x00000000      0x1ba C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x00000000      0x184 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x00000000       0x58 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x00000000      0x10f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_str     0x00000000      0x2b5 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x00000000       0xbc C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .text.__copy_rom_section
+                0x00000000       0x40 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .text.__copy_rom_sections_to_ram
+                0x00000000       0x34 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_info    0x00000000      0x20f C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_abbrev  0x00000000      0x12e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_loc     0x00000000       0xf4 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_aranges
+                0x00000000       0x30 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_line    0x00000000       0xac C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_str     0x00000000      0x233 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .debug_frame   0x00000000       0x50 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a(ROMCopy.o)
+ .text          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .data          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .bss           0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .text._ExitProcess
+                0x00000000        0x2 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_info    0x00000000       0x4e C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_abbrev  0x00000000       0x4a C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_aranges
+                0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_line    0x00000000       0x45 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_str     0x00000000      0x1a7 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .comment       0x00000000       0x71 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .debug_frame   0x00000000       0x20 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+ .ARM.attributes
+                0x00000000       0x31 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x000000c0         xr
+m_flash_config   0x00000400         0x00000010         xr
+m_text           0x00000410         0x0001fbf0         xr
+m_data           0x20000000         0x000020c0         rw
+m_data_2         0x200020c0         0x00001740         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+LOAD ./Sources/main.o
+LOAD ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+LOAD ./SDK/platform/drivers/src/pins/pins_driver.o
+LOAD ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+LOAD ./SDK/platform/drivers/src/pdb/pdb_driver.o
+LOAD ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+LOAD ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+LOAD ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+LOAD ./SDK/platform/drivers/src/ftm/ftm_common.o
+LOAD ./SDK/platform/drivers/src/clock/clock_manager.o
+LOAD ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+LOAD ./SDK/platform/drivers/src/adc/adc_driver.o
+LOAD ./SDK/platform/devices/startup.o
+LOAD ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K116.o
+LOAD ./Generated_Code/pin_mux.o
+LOAD ./Generated_Code/pdb1.o
+LOAD ./Generated_Code/flexTimer_pwm1.o
+LOAD ./Generated_Code/clockMan1.o
+LOAD ./Generated_Code/adConv1.o
+LOAD ./Generated_Code/Cpu.o
+START GROUP
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libc99.a
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libm.a
+LOAD c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\librt.a
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m\libnoio.a
+END GROUP
+LOAD C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_end.o
+                0x00000200                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x200
+                0x00000200                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x200
+                0x000000c0                M_VECTOR_RAM_SIZE = DEFINED (__flash_vector_table__)?0x0:0xc0
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __VECTOR_TABLE = .
+                0x00000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./Project_Settings/Startup_Code/startup_S32K116.o
+                0x00000000                __isr_vector
+                0x000000c0                . = ALIGN (0x4)
+
+.flash_config   0x00000400       0x10
+                0x00000400                . = ALIGN (0x4)
+ *(.FlashConfig)
+ .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_S32K116.o
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410     0x5ae8
+                0x00000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000410       0x60 ./Project_Settings/Startup_Code/startup_S32K116.o
+                0x00000410                Reset_Handler
+                0x0000046c                SysTick_Handler
+                0x0000046c                ERM_fault_IRQHandler
+                0x0000046c                PendSV_Handler
+                0x0000046c                NMI_Handler
+                0x0000046c                DMA2_IRQHandler
+                0x0000046c                LPIT0_IRQHandler
+                0x0000046c                ADC0_IRQHandler
+                0x0000046c                FTM0_Ovf_Reload_IRQHandler
+                0x0000046c                FTM1_Ch0_7_IRQHandler
+                0x0000046c                DefaultISR
+                0x0000046c                SCG_CMU_LVD_LVWSCG_IRQHandler
+                0x0000046c                FTM0_Ch0_7_IRQHandler
+                0x0000046c                RTC_IRQHandler
+                0x0000046c                PDB0_IRQHandler
+                0x0000046c                HardFault_Handler
+                0x0000046c                CAN0_ORed_Err_Wakeup_IRQHandler
+                0x0000046c                Reserved27_IRQHandler
+                0x0000046c                LPUART1_RxTx_IRQHandler
+                0x0000046c                RTC_Seconds_IRQHandler
+                0x0000046c                CAN0_ORed_0_31_MB_IRQHandler
+                0x0000046c                FTFC_IRQHandler
+                0x0000046c                LPSPI0_IRQHandler
+                0x0000046c                FTM0_Fault_IRQHandler
+                0x0000046c                SVC_Handler
+                0x0000046c                RCM_IRQHandler
+                0x0000046c                DMA3_IRQHandler
+                0x0000046c                DMA0_IRQHandler
+                0x0000046c                FTM1_Fault_IRQHandler
+                0x0000046c                DMA_Error_IRQHandler
+                0x0000046c                LPI2C0_Master_Slave_IRQHandler
+                0x0000046c                LPUART0_RxTx_IRQHandler
+                0x0000046c                WDOG_IRQHandler
+                0x0000046c                LPTMR0_IRQHandler
+                0x0000046c                FTM1_Ovf_Reload_IRQHandler
+                0x0000046c                CMP0_IRQHandler
+                0x0000046c                PORT_IRQHandler
+                0x0000046c                FLEXIO_IRQHandler
+                0x0000046c                DMA1_IRQHandler
+ .text          0x00000470      0x120 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x00000470                __aeabi_uidiv
+                0x00000470                __udivsi3
+                0x0000057c                __aeabi_uidivmod
+ .text          0x00000590        0x4 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00000590                __aeabi_idiv0
+                0x00000590                __aeabi_ldiv0
+ *(.text*)
+ .text.ADC_ISR  0x00000594       0x40 ./Sources/main.o
+                0x00000594                ADC_ISR
+ .text.main     0x000005d4       0xe8 ./Sources/main.o
+                0x000005d4                main
+ .text.PINS_GPIO_WritePin
+                0x000006bc       0x40 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .text.PINS_Init
+                0x000006fc      0x1b8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x000006fc                PINS_Init
+ .text.PINS_DRV_Init
+                0x000008b4       0x68 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x000008b4                PINS_DRV_Init
+ .text.PDB_Enable
+                0x0000091c       0x1c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_Disable
+                0x00000938       0x1c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_SetLoadValuesCmd
+                0x00000954       0x1c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_SetAdcPreTriggerDelayValue
+                0x00000970       0x30 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .text.PDB_Init
+                0x000009a0       0xc4 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+                0x000009a0                PDB_Init
+ .text.PDB_ConfigTimer
+                0x00000a64       0xb4 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+                0x00000a64                PDB_ConfigTimer
+ .text.PDB_SetAdcPreTriggerBackToBackEnable
+                0x00000b18       0x6c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+                0x00000b18                PDB_SetAdcPreTriggerBackToBackEnable
+ .text.PDB_SetAdcPreTriggerOutputEnable
+                0x00000b84       0x68 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+                0x00000b84                PDB_SetAdcPreTriggerOutputEnable
+ .text.PDB_SetAdcPreTriggerEnable
+                0x00000bec       0x64 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+                0x00000bec                PDB_SetAdcPreTriggerEnable
+ .text.PDB_SetSoftTriggerCmd
+                0x00000c50       0x1c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_Enable
+                0x00000c6c       0x1c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_SetLoadValuesCmd
+                0x00000c88       0x1c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_SetTimerModulusValue
+                0x00000ca4       0x28 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_SetAdcPreTriggerDelayValue
+                0x00000ccc       0x30 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .text.PDB_DRV_Init
+                0x00000cfc       0x70 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000cfc                PDB_DRV_Init
+ .text.PDB_DRV_Enable
+                0x00000d6c       0x20 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000d6c                PDB_DRV_Enable
+ .text.PDB_DRV_SoftTriggerCmd
+                0x00000d8c       0x20 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000d8c                PDB_DRV_SoftTriggerCmd
+ .text.PDB_DRV_LoadValuesCmd
+                0x00000dac       0x20 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000dac                PDB_DRV_LoadValuesCmd
+ .text.PDB_DRV_SetTimerModulusValue
+                0x00000dcc       0x2c ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000dcc                PDB_DRV_SetTimerModulusValue
+ .text.PDB_DRV_ConfigAdcPreTrigger
+                0x00000df8       0x64 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000df8                PDB_DRV_ConfigAdcPreTrigger
+ .text.PDB_DRV_SetAdcPreTriggerDelayValue
+                0x00000e5c       0x28 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                0x00000e5c                PDB_DRV_SetAdcPreTriggerDelayValue
+ .text.INT_SYS_InstallHandler
+                0x00000e84       0x50 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000e84                INT_SYS_InstallHandler
+ .text.INT_SYS_EnableIRQ
+                0x00000ed4       0x34 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000ed4                INT_SYS_EnableIRQ
+ .text.INT_SYS_DisableIRQ
+                0x00000f08       0x38 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000f08                INT_SYS_DisableIRQ
+ .text.INT_SYS_EnableIRQGlobal
+                0x00000f40       0x28 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000f40                INT_SYS_EnableIRQGlobal
+ .text.INT_SYS_DisableIRQGlobal
+                0x00000f68       0x18 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000f68                INT_SYS_DisableIRQGlobal
+ .text.FTM_DRV_GetMod
+                0x00000f80       0x18 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetClockSource
+                0x00000f98       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_EnablePwmChannelOutputs
+                0x00000fc8       0x3c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_DisablePwmChannelOutputs
+                0x00001004       0x34 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_ClearTimerOverflow
+                0x00001038       0x20 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetCpwms
+                0x00001058       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_GetCpwms
+                0x00001088       0x20 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_GetClockSource
+                0x000010a8       0x1c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetMod
+                0x000010c4       0x28 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetCounterInitVal
+                0x000010ec       0x28 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetChnMSnBAMode
+                0x00001114       0x84 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetChnEdgeLevel
+                0x00001198       0x84 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetChnCountVal
+                0x0000121c       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetChnOutputPolarityCmd
+                0x0000124c       0x54 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetChnFaultInputPolarityCmd
+                0x000012a0       0x5c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetFaultInt
+                0x000012fc       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetFaultControlMode
+                0x0000132c       0x28 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetInitChnOutputCmd
+                0x00001354       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetWriteProtectionCmd
+                0x00001384       0x38 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_Enable
+                0x000013bc       0x28 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetPwmSyncMode
+                0x000013e4       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetSoftwareTriggerCmd
+                0x00001414       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualChnMofCombineCmd
+                0x00001444       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualChnFaultCmd
+                0x0000149c       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualChnPwmSyncCmd
+                0x000014f4       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualChnDeadtimeCmd
+                0x0000154c       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualEdgeCaptureCmd
+                0x000015a4       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualChnCompCmd
+                0x000015fc       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDualChnCombineCmd
+                0x00001654       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_GetDualChnCombineCmd
+                0x000016ac       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_GetDualChnMofCombineCmd
+                0x000016dc       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDeadtimePrescale
+                0x0000170c       0x30 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetDeadtimeCount
+                0x0000173c       0x2c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetFaultInputFilterVal
+                0x00001768       0x2c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetFaultInputFilterCmd
+                0x00001794       0x58 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetFaultInputCmd
+                0x000017ec       0x54 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_SetPwmFaultBehavior
+                0x00001840       0x3c ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .text.FTM_DRV_InitPwm
+                0x0000187c      0x800 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+                0x0000187c                FTM_DRV_InitPwm
+ .text.FTM_DRV_UpdatePwmChannel
+                0x0000207c      0x264 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+                0x0000207c                FTM_DRV_UpdatePwmChannel
+ .text.FTM_DRV_SetClockPs
+                0x000022e0       0x2c ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .text.FTM_DRV_Enable
+                0x0000230c       0x28 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .text.FTM_DRV_InitModule
+                0x00002334       0x2c ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+                0x00002334                FTM_DRV_InitModule
+ .text.FTM_DRV_Reset
+                0x00002360      0x144 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+                0x00002360                FTM_DRV_Reset
+ .text.FTM_DRV_SetChnTriggerCmd
+                0x000024a4       0x84 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+                0x000024a4                FTM_DRV_SetChnTriggerCmd
+ .text.FTM_DRV_GetClockPs
+                0x00002528       0x1c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetTimerOverflowInt
+                0x00002544       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetHardwareSyncTriggerSrc
+                0x00002578       0x54 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetOutmaskPwmSyncModeCmd
+                0x000025cc       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetMaxLoadingCmd
+                0x000025fc       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetMinLoadingCmd
+                0x0000262c       0x28 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInitTriggerCmd
+                0x00002654       0x30 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetBdmMode
+                0x00002684       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetSwoctrlHardwareSyncModeCmd
+                0x000026b8       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInvctrlHardwareSyncModeCmd
+                0x000026f0       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetOutmaskHardwareSyncModeCmd
+                0x00002728       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetModCntinCvHardwareSyncModeCmd
+                0x00002760       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetCounterHardwareSyncModeCmd
+                0x00002798       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetSwoctrlSoftwareSyncModeCmd
+                0x000027d0       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInvctrlSoftwareSyncModeCmd
+                0x00002808       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetOutmaskSoftwareSyncModeCmd
+                0x00002840       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetModCntinCvSoftwareSyncModeCmd
+                0x00002878       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetHwTriggerSyncModeCmd
+                0x000028b0       0x2c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetCounterSoftwareSyncModeCmd
+                0x000028dc       0x38 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetPwmSyncModeCmd
+                0x00002914       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetSwoctrlPwmSyncModeCmd
+                0x00002948       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetInvctrlPwmSyncModeCmd
+                0x0000297c       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_SetCntinPwmSyncModeCmd
+                0x000029b0       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .text.FTM_DRV_Init
+                0x000029e4      0x18c ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x000029e4                FTM_DRV_Init
+ .text.FTM_DRV_SetSync
+                0x00002b70      0x1bc ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x00002b70                FTM_DRV_SetSync
+ .text.FTM_DRV_GetFrequency
+                0x00002d2c      0x108 ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x00002d2c                FTM_DRV_GetFrequency
+ .text.FTM_DRV_ConvertFreqToPeriodTicks
+                0x00002e34       0x34 ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x00002e34                FTM_DRV_ConvertFreqToPeriodTicks
+ .text.CLOCK_SYS_Init
+                0x00002e68       0x58 ./SDK/platform/drivers/src/clock/clock_manager.o
+                0x00002e68                CLOCK_SYS_Init
+ .text.CLOCK_SYS_UpdateConfiguration
+                0x00002ec0      0x200 ./SDK/platform/drivers/src/clock/clock_manager.o
+                0x00002ec0                CLOCK_SYS_UpdateConfiguration
+ .text.SIM_GetRtcClkSrc
+                0x000030c0       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetLpoClocks
+                0x000030dc       0x80 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetEimClockGate
+                0x0000315c       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetEimClockGate
+                0x00003198       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetErmClockGate
+                0x000031c0       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetErmClockGate
+                0x000031fc       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetDmaClockGate
+                0x00003224       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetDmaClockGate
+                0x00003260       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetMpuClockGate
+                0x00003288       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetMpuClockGate
+                0x000032c4       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetMscmClockGate
+                0x000032ec       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetMscmClockGate
+                0x00003328       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetFtm0ExternalClkPinMode
+                0x00003350       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetFtm1ExternalClkPinMode
+                0x0000336c       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetLpo32KStatus
+                0x00003388       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetLpo1KStatus
+                0x000033a8       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetLpoClkSelectorValue
+                0x000033c8       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetClockoutStatus
+                0x000033e4       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetClockoutDividerValue
+                0x00003408       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_GetClockoutSelectorValue
+                0x00003424       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetClockout
+                0x00003440       0x68 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetTraceClockSource
+                0x000034a8       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_ClearTraceClockConfig
+                0x000034e0       0x18 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SIM_SetTraceClockConfig
+                0x000034f8       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetClockoutSourceSel
+                0x0000353c       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetCurrentSystemClockSource
+                0x00003558       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetCurrentCoreClockDividerRatio
+                0x00003574       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetCurrentBusClockDividerRatio
+                0x00003590       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetCurrentSlowClockDividerRatio
+                0x000035ac       0x18 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetRunClockControl
+                0x000035c4       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetVlprClockControl
+                0x00003608       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetFircFirstAsyncDivider
+                0x0000364c       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetFircSecondAsyncDivider
+                0x00003668       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetFircAsyncConfig
+                0x00003688       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSircFirstAsyncDivider
+                0x000036b8       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSircSecondAsyncDivider
+                0x000036d4       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetSircAsyncConfig
+                0x000036f4       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSoscFirstAsyncDivider
+                0x00003724       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSoscSecondAsyncDivider
+                0x00003740       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetSoscAsyncConfig
+                0x00003760       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetClockoutSourceSel
+                0x00003790       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSircSystemClockMode
+                0x000037c8       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSircStatus
+                0x000037f8       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSircRange
+                0x00003820       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_ClearSircLock
+                0x0000383c       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_ClearSircControl
+                0x00003864       0x18 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetSircConfiguration
+                0x0000387c       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetSircControl
+                0x000038a4       0x64 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetFircSystemClockMode
+                0x00003908       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetFircStatus
+                0x00003938       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetFircRange
+                0x00003960       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_ClearFircLock
+                0x0000397c       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_ClearFircControl
+                0x000039a4       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetFircConfiguration
+                0x000039c0       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetFircControl
+                0x000039e8       0x4c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSoscSystemClockMode
+                0x00003a34       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_GetSoscStatus
+                0x00003a64       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_ClearSoscLock
+                0x00003a8c       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_ClearSoscControl
+                0x00003ab4       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetSoscConfiguration
+                0x00003ad0       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SCG_SetSoscControl
+                0x00003b0c       0x68 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PCC_SetPeripheralClockControl
+                0x00003b74       0x70 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PCC_SetClockMode
+                0x00003be4       0x88 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PCC_GetClockMode
+                0x00003c6c       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PCC_GetClockSourceSel
+                0x00003cb0       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PCC_GetFracValueSel
+                0x00003ce4       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PCC_GetDividerSel
+                0x00003d18       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PMC_SetLpoMode
+                0x00003d48       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PMC_GetLpoMode
+                0x00003d9c       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.PMC_SetLpoTrimValue
+                0x00003dd0       0x94 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.SMC_GetCurrentRunningMode
+                0x00003e64       0x18 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetConfiguration
+                0x00003e7c       0x80 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00003e7c                CLOCK_SYS_SetConfiguration
+ .text.CLOCK_SYS_SetScgConfiguration
+                0x00003efc       0xc8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetPccConfiguration
+                0x00003fc4       0xb8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetSimConfiguration
+                0x0000407c      0x160 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetPmcConfiguration
+                0x000041dc       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetDefaultConfiguration
+                0x00004214      0x228 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetScgClockFreq
+                0x0000443c      0x10c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimClockFreq
+                0x00004548      0x1e8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetPccClockFreq
+                0x00004730      0x184 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetFreq
+                0x000048b4       0x84 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x000048b4                CLOCK_SYS_GetFreq
+ .text.CLOCK_SYS_GetPeripheralClock
+                0x00004938       0xd4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetCurrentRunMode
+                0x00004a0c       0x50 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_TransitionSystemClock
+                0x00004a5c       0x80 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimClkOutFreq
+                0x00004adc       0xb0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetScgClkOutFreq
+                0x00004b8c       0x60 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimRtcClkFreq
+                0x00004bec       0x74 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSIRC
+                0x00004c60      0x100 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureFIRC
+                0x00004d60      0x108 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSOSC
+                0x00004e68      0x170 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureTemporarySystemClock
+                0x00004fd8       0x70 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureModulesFromScg
+                0x00005048      0x1e8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSystemClockFreq
+                0x00005230       0xbc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetSystemClockConfig
+                0x000052ec      0x180 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSysAsyncFreq
+                0x0000546c      0x108 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSysOscFreq
+                0x00005574       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSircFreq
+                0x000055a4       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetFircFreq
+                0x000055e8       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetLpoFreq
+                0x00005624       0x70 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.ADC_SetClockDivide
+                0x00005694       0x38 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetSampleTime
+                0x000056cc       0x4c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetResolution
+                0x00005718       0x38 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetInputClock
+                0x00005750       0x38 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetTriggerMode
+                0x00005788       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetPretriggerSelect
+                0x000057c4       0x78 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetTriggerSelect
+                0x0000583c       0x74 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetDMAEnableFlag
+                0x000058b0       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetVoltageReference
+                0x000058f0       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetContinuousConvFlag
+                0x0000592c       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetSupplyMonitoringEnableFlag
+                0x0000596c       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_SetInputChannel
+                0x000059a8       0xe0 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .text.ADC_DRV_ConfigConverter
+                0x00005a88       0xc0 ./SDK/platform/drivers/src/adc/adc_driver.o
+                0x00005a88                ADC_DRV_ConfigConverter
+ .text.ADC_DRV_ConfigChan
+                0x00005b48       0x3c ./SDK/platform/drivers/src/adc/adc_driver.o
+                0x00005b48                ADC_DRV_ConfigChan
+ .text.ADC_DRV_GetChanResult
+                0x00005b84       0x40 ./SDK/platform/drivers/src/adc/adc_driver.o
+                0x00005b84                ADC_DRV_GetChanResult
+ .text.init_data_bss
+                0x00005bc4      0x11c ./SDK/platform/devices/startup.o
+                0x00005bc4                init_data_bss
+ .text.SystemInit
+                0x00005ce0       0x30 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+                0x00005ce0                SystemInit
+ *(.rodata)
+ .rodata        0x00005d10       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ *(.rodata*)
+ .rodata.g_ftmBase
+                0x00005d34        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x00005d34                g_ftmBase
+ .rodata.g_ftmOverflowIrqId
+                0x00005d3c        0x2 ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x00005d3c                g_ftmOverflowIrqId
+ *fill*         0x00005d3e        0x2 
+ .rodata.g_ftmExtClockSel
+                0x00005d40        0x4 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .rodata.clockNameMappings
+                0x00005d44       0x8a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00005d44                clockNameMappings
+ *fill*         0x00005dce        0x2 
+ .rodata.peripheralFeaturesList
+                0x00005dd0       0x45 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00005dd0                peripheralFeaturesList
+ *fill*         0x00005e15        0x3 
+ .rodata.CLOCK_SYS_GetScgClockFreq
+                0x00005e18       0x40 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.CLOCK_SYS_GetSimClockFreq
+                0x00005e58       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.CLOCK_SYS_GetSimClkOutFreq
+                0x00005e8c       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.fircFreq.6194
+                0x00005ec8       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.pdb1_AdcTrigInitConfig0
+                0x00005ed8        0x8 ./Generated_Code/pdb1.o
+                0x00005ed8                pdb1_AdcTrigInitConfig0
+ .rodata.pdb1_InitConfig0
+                0x00005ee0        0x8 ./Generated_Code/pdb1.o
+                0x00005ee0                pdb1_InitConfig0
+ .rodata.adConv1_ConvConfig0
+                0x00005ee8        0xb ./Generated_Code/adConv1.o
+                0x00005ee8                adConv1_ConvConfig0
+ *fill*         0x00005ef3        0x1 
+ .rodata.adConv1_ChnConfig0
+                0x00005ef4        0x4 ./Generated_Code/adConv1.o
+                0x00005ef4                adConv1_ChnConfig0
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00005ef8                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00005ef8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00005ef8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00005ef8        0x0
+ .iplt          0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+
+.rel.dyn        0x00005ef8        0x0
+ .rel.iplt      0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00005ef8        0x0
+                0x00005ef8                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00005ef8                __exidx_end = .
+
+.ctors          0x00005ef8        0x0
+                0x00005ef8                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00005ef8                __CTOR_END__ = .
+
+.dtors          0x00005ef8        0x0
+                0x00005ef8                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00005ef8                __DTOR_END__ = .
+
+.preinit_array  0x00005ef8        0x0
+                0x00005ef8                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00005ef8                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00005ef8        0x0
+                0x00005ef8                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x00005ef8                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00005ef8        0x0
+                0x00005ef8                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x00005ef8                PROVIDE (__fini_array_end, .)
+                0x00005ef8                __etext = .
+                0x00005ef8                __DATA_ROM = .
+
+.interrupts_ram
+                0x20000000       0xc0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __VECTOR_RAM__ = .
+                0x20000000                __RAM_START = .
+                0x20000000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x200000c0                . = (. + M_VECTOR_RAM_SIZE)
+ *fill*         0x20000000       0xc0 
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __interrupts_ram_end__ = .
+                0x20000000                __VECTOR_RAM = DEFINED (__flash_vector_table__)?ORIGIN (m_interrupts):__VECTOR_RAM__
+                0x000000c0                __RAM_VECTOR_TABLE_SIZE = DEFINED (__flash_vector_table__)?0x0:(__interrupts_ram_end__ - __interrupts_ram_start__)
+
+.data           0x200000c0      0x554 load address 0x00005ef8
+                0x200000c0                . = ALIGN (0x4)
+                0x200000c0                __DATA_RAM = .
+                0x200000c0                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.peripheralClockConfig.5951
+                0x200000c0       0x6e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ *fill*         0x2000012e        0x2 
+ .data.g_pin_mux_InitConfigArr
+                0x20000130      0x408 ./Generated_Code/pin_mux.o
+                0x20000130                g_pin_mux_InitConfigArr
+ .data.flexTimer_pwm1_IndependentChannelsConfig
+                0x20000538        0xa ./Generated_Code/flexTimer_pwm1.o
+                0x20000538                flexTimer_pwm1_IndependentChannelsConfig
+ *fill*         0x20000542        0x2 
+ .data.flexTimer_pwm1_PwmConfig
+                0x20000544       0x18 ./Generated_Code/flexTimer_pwm1.o
+                0x20000544                flexTimer_pwm1_PwmConfig
+ .data.flexTimer_pwm1_InitConfig
+                0x2000055c       0x12 ./Generated_Code/flexTimer_pwm1.o
+                0x2000055c                flexTimer_pwm1_InitConfig
+ *fill*         0x2000056e        0x2 
+ .data.peripheralClockConfig0
+                0x20000570       0x28 ./Generated_Code/clockMan1.o
+                0x20000570                peripheralClockConfig0
+ .data.clockMan1_InitConfig0
+                0x20000598       0x78 ./Generated_Code/clockMan1.o
+                0x20000598                clockMan1_InitConfig0
+ .data.g_clockManConfigsArr
+                0x20000610        0x4 ./Generated_Code/clockMan1.o
+                0x20000610                g_clockManConfigsArr
+ *(.jcr*)
+                0x20000614                . = ALIGN (0x4)
+                0x20000614                __data_end__ = .
+                0x0000644c                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x0000644c                __CODE_ROM = __DATA_END
+
+.igot.plt       0x20000614        0x0 load address 0x0000644c
+ .igot.plt      0x00000000        0x0 C:/NXP/S32DS_ARM_v2018.R1/S32DS/arm_ewl2/lib/armv6-m/__arm_start.o
+
+.code           0x20000614        0x0 load address 0x0000644c
+                0x20000614                . = ALIGN (0x4)
+                0x20000614                __CODE_RAM = .
+                0x20000614                __code_start__ = .
+ *(.code_ram)
+                0x20000614                . = ALIGN (0x4)
+                0x20000614                __code_end__ = .
+                0x0000644c                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+
+.customSectionBlock
+ *(.customSection)
+
+.bss            0x200020c0       0x48
+                0x200020c0                . = ALIGN (0x4)
+                0x200020c0                __BSS_START = .
+                0x200020c0                __bss_start__ = .
+ *(.bss)
+ *(.bss*)
+ .bss.g_interruptDisableCount
+                0x200020c0        0x4 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .bss.ftmStatePtr
+                0x200020c4        0x8 ./SDK/platform/drivers/src/ftm/ftm_common.o
+                0x200020c4                ftmStatePtr
+ .bss.g_clockState
+                0x200020cc       0x10 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .bss.flexTimer_pwm1_FaultConfig
+                0x200020dc       0x10 ./Generated_Code/flexTimer_pwm1.o
+                0x200020dc                flexTimer_pwm1_FaultConfig
+ .bss.g_clockManCallbacksArr
+                0x200020ec        0x4 ./Generated_Code/clockMan1.o
+                0x200020ec                g_clockManCallbacksArr
+ *(COMMON)
+ COMMON         0x200020f0        0x4 ./Sources/main.o
+                0x200020f0                adcRawValue
+ COMMON         0x200020f4       0x14 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x200020f4                g_xtal0ClkFreq
+                0x200020f8                g_RtcClkInFreq
+                0x200020fc                g_TClkFreq
+                0x20002108                . = ALIGN (0x4)
+                0x20002108                __bss_end__ = .
+                0x20002108                __BSS_END = .
+
+.heap           0x20002108      0x200
+                0x20002108                . = ALIGN (0x8)
+                0x20002108                __end__ = .
+                0x20002108                PROVIDE (end, .)
+                0x20002108                PROVIDE (_end, .)
+                0x20002108                PROVIDE (__end, .)
+                0x20002108                __HeapBase = .
+                0x20002308                . = (. + HEAP_SIZE)
+ *fill*         0x20002108      0x200 
+                0x20002308                __HeapLimit = .
+                0x20002308                __heap_limit = .
+
+.stack          0x20002308      0x200
+                0x20002308                . = ALIGN (0x8)
+                0x20002508                . = (. + STACK_SIZE)
+ *fill*         0x20002308      0x200 
+                0x20003800                __StackTop = (ORIGIN (m_data_2) + 0x1740)
+                0x20003600                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20003800                PROVIDE (__stack, __StackTop)
+                0x20003800                __RAM_END = __StackTop
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x32 ./Sources/main.o
+ .ARM.attributes
+                0x00000032       0x32 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .ARM.attributes
+                0x00000064       0x32 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .ARM.attributes
+                0x00000096       0x32 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .ARM.attributes
+                0x000000c8       0x32 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .ARM.attributes
+                0x000000fa       0x32 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .ARM.attributes
+                0x0000012c       0x32 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .ARM.attributes
+                0x0000015e       0x32 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .ARM.attributes
+                0x00000190       0x32 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .ARM.attributes
+                0x000001c2       0x32 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .ARM.attributes
+                0x000001f4       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .ARM.attributes
+                0x00000226       0x32 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .ARM.attributes
+                0x00000258       0x32 ./SDK/platform/devices/startup.o
+ .ARM.attributes
+                0x0000028a       0x32 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .ARM.attributes
+                0x000002bc       0x1b ./Project_Settings/Startup_Code/startup_S32K116.o
+ .ARM.attributes
+                0x000002d7       0x32 ./Generated_Code/pin_mux.o
+ .ARM.attributes
+                0x00000309       0x32 ./Generated_Code/pdb1.o
+ .ARM.attributes
+                0x0000033b       0x32 ./Generated_Code/flexTimer_pwm1.o
+ .ARM.attributes
+                0x0000036d       0x32 ./Generated_Code/clockMan1.o
+ .ARM.attributes
+                0x0000039f       0x32 ./Generated_Code/adConv1.o
+ .ARM.attributes
+                0x000003d1       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000003ef       0x1e c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
+OUTPUT(PWMTEST2.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x11c4c
+ .debug_info    0x00000000     0x1f50 ./Sources/main.o
+ .debug_info    0x00001f50      0x7a5 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_info    0x000026f5     0x10a2 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_info    0x00003797      0x66c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_info    0x00003e03     0x115e ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_info    0x00004f61      0x67e ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_info    0x000055df     0x174f ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_info    0x00006d2e      0x486 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_info    0x000071b4     0x1d85 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_info    0x00008f39     0x1157 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_info    0x0000a090     0x32af ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_info    0x0000d33f     0x1d38 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_info    0x0000f077      0x380 ./SDK/platform/devices/startup.o
+ .debug_info    0x0000f3f7      0x3d8 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_info    0x0000f7cf       0x8e ./Project_Settings/Startup_Code/startup_S32K116.o
+ .debug_info    0x0000f85d      0x3d2 ./Generated_Code/pin_mux.o
+ .debug_info    0x0000fc2f      0x393 ./Generated_Code/pdb1.o
+ .debug_info    0x0000ffc2      0x79d ./Generated_Code/flexTimer_pwm1.o
+ .debug_info    0x0001075f     0x1036 ./Generated_Code/clockMan1.o
+ .debug_info    0x00011795      0x4b7 ./Generated_Code/adConv1.o
+
+.debug_abbrev   0x00000000     0x1c55
+ .debug_abbrev  0x00000000      0x17e ./Sources/main.o
+ .debug_abbrev  0x0000017e      0x144 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_abbrev  0x000002c2      0x234 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_abbrev  0x000004f6      0x1e2 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_abbrev  0x000006d8      0x24e ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_abbrev  0x00000926      0x199 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_abbrev  0x00000abf      0x221 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_abbrev  0x00000ce0      0x18e ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_abbrev  0x00000e6e      0x20c ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_abbrev  0x0000107a      0x16b ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_abbrev  0x000011e5      0x22f ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_abbrev  0x00001414      0x225 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_abbrev  0x00001639      0x101 ./SDK/platform/devices/startup.o
+ .debug_abbrev  0x0000173a      0x132 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_abbrev  0x0000186c       0x14 ./Project_Settings/Startup_Code/startup_S32K116.o
+ .debug_abbrev  0x00001880       0xbe ./Generated_Code/pin_mux.o
+ .debug_abbrev  0x0000193e       0x8d ./Generated_Code/pdb1.o
+ .debug_abbrev  0x000019cb       0xca ./Generated_Code/flexTimer_pwm1.o
+ .debug_abbrev  0x00001a95      0x10a ./Generated_Code/clockMan1.o
+ .debug_abbrev  0x00001b9f       0xb6 ./Generated_Code/adConv1.o
+
+.debug_aranges  0x00000000      0xef0
+ .debug_aranges
+                0x00000000       0x28 ./Sources/main.o
+ .debug_aranges
+                0x00000028       0x38 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_aranges
+                0x00000060      0x170 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_aranges
+                0x000001d0       0x78 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_aranges
+                0x00000248      0x130 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_aranges
+                0x00000378       0x68 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_aranges
+                0x000003e0      0x1a0 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_aranges
+                0x00000580       0x48 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_aranges
+                0x000005c8      0x240 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_aranges
+                0x00000808       0x38 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_aranges
+                0x00000840      0x370 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_aranges
+                0x00000bb0      0x258 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_aranges
+                0x00000e08       0x20 ./SDK/platform/devices/startup.o
+ .debug_aranges
+                0x00000e28       0x30 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_aranges
+                0x00000e58       0x20 ./Project_Settings/Startup_Code/startup_S32K116.o
+ .debug_aranges
+                0x00000e78       0x18 ./Generated_Code/pin_mux.o
+ .debug_aranges
+                0x00000e90       0x18 ./Generated_Code/pdb1.o
+ .debug_aranges
+                0x00000ea8       0x18 ./Generated_Code/flexTimer_pwm1.o
+ .debug_aranges
+                0x00000ec0       0x18 ./Generated_Code/clockMan1.o
+ .debug_aranges
+                0x00000ed8       0x18 ./Generated_Code/adConv1.o
+
+.debug_ranges   0x00000000      0xd78
+ .debug_ranges  0x00000000       0x18 ./Sources/main.o
+ .debug_ranges  0x00000018       0x28 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_ranges  0x00000040      0x160 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_ranges  0x000001a0       0x68 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_ranges  0x00000208      0x120 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_ranges  0x00000328       0x58 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_ranges  0x00000380      0x190 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_ranges  0x00000510       0x38 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_ranges  0x00000548      0x230 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_ranges  0x00000778       0x28 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_ranges  0x000007a0      0x360 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_ranges  0x00000b00      0x248 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_ranges  0x00000d48       0x10 ./SDK/platform/devices/startup.o
+ .debug_ranges  0x00000d58       0x20 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+
+.debug_macro    0x00000000    0x1c3a8
+ .debug_macro   0x00000000      0x1d8 ./Sources/main.o
+ .debug_macro   0x000001d8      0x81a ./Sources/main.o
+ .debug_macro   0x000009f2       0x52 ./Sources/main.o
+ .debug_macro   0x00000a44       0xa0 ./Sources/main.o
+ .debug_macro   0x00000ae4       0x16 ./Sources/main.o
+ .debug_macro   0x00000afa       0x10 ./Sources/main.o
+ .debug_macro   0x00000b0a       0x6b ./Sources/main.o
+ .debug_macro   0x00000b75       0x16 ./Sources/main.o
+ .debug_macro   0x00000b8b       0x64 ./Sources/main.o
+ .debug_macro   0x00000bef      0x185 ./Sources/main.o
+ .debug_macro   0x00000d74      0x140 ./Sources/main.o
+ .debug_macro   0x00000eb4       0x9d ./Sources/main.o
+ .debug_macro   0x00000f51       0x10 ./Sources/main.o
+ .debug_macro   0x00000f61      0x15b ./Sources/main.o
+ .debug_macro   0x000010bc       0x28 ./Sources/main.o
+ .debug_macro   0x000010e4       0x58 ./Sources/main.o
+ .debug_macro   0x0000113c     0xc62a ./Sources/main.o
+ .debug_macro   0x0000d766      0x8b1 ./Sources/main.o
+ .debug_macro   0x0000e017       0x22 ./Sources/main.o
+ .debug_macro   0x0000e039       0x71 ./Sources/main.o
+ .debug_macro   0x0000e0aa       0x16 ./Sources/main.o
+ .debug_macro   0x0000e0c0       0x16 ./Sources/main.o
+ .debug_macro   0x0000e0d6       0x16 ./Sources/main.o
+ .debug_macro   0x0000e0ec       0xcd ./Sources/main.o
+ .debug_macro   0x0000e1b9       0x10 ./Sources/main.o
+ .debug_macro   0x0000e1c9       0x22 ./Sources/main.o
+ .debug_macro   0x0000e1eb       0x16 ./Sources/main.o
+ .debug_macro   0x0000e201       0x10 ./Sources/main.o
+ .debug_macro   0x0000e211       0x10 ./Sources/main.o
+ .debug_macro   0x0000e221       0x10 ./Sources/main.o
+ .debug_macro   0x0000e231      0x135 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x0000e366      0x1af ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_macro   0x0000e515      0x13b ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_macro   0x0000e650      0x132 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x0000e782     0xc63c ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x0001adbe       0x10 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_macro   0x0001adce      0x142 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_macro   0x0001af10       0xe4 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_macro   0x0001aff4      0x16a ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_macro   0x0001b15e      0x156 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x0001b2b4       0x1c ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_macro   0x0001b2d0      0x157 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_macro   0x0001b427      0x134 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_macro   0x0001b55b      0x2ac ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_macro   0x0001b807      0x115 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_macro   0x0001b91c       0xe4 ./SDK/platform/devices/startup.o
+ .debug_macro   0x0001ba00       0xe3 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_macro   0x0001bae3      0x13a ./Generated_Code/pin_mux.o
+ .debug_macro   0x0001bc1d      0x1e3 ./Generated_Code/pdb1.o
+ .debug_macro   0x0001be00      0x1e8 ./Generated_Code/flexTimer_pwm1.o
+ .debug_macro   0x0001bfe8      0x1dd ./Generated_Code/clockMan1.o
+ .debug_macro   0x0001c1c5      0x1e3 ./Generated_Code/adConv1.o
+
+.debug_line     0x00000000     0x7d83
+ .debug_line    0x00000000      0x587 ./Sources/main.o
+ .debug_line    0x00000587      0x45f ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_line    0x000009e6      0x73a ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_line    0x00001120      0x561 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_line    0x00001681      0x6fc ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_line    0x00001d7d      0x46b ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_line    0x000021e8      0xa0b ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_line    0x00002bf3      0x4fd ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_line    0x000030f0      0xaf6 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_line    0x00003be6      0x4c1 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_line    0x000040a7     0x1375 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_line    0x0000541c      0xb2a ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_line    0x00005f46      0x270 ./SDK/platform/devices/startup.o
+ .debug_line    0x000061b6      0x34b ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_line    0x00006501       0x92 ./Project_Settings/Startup_Code/startup_S32K116.o
+ .debug_line    0x00006593      0x37e ./Generated_Code/pin_mux.o
+ .debug_line    0x00006911      0x518 ./Generated_Code/pdb1.o
+ .debug_line    0x00006e29      0x522 ./Generated_Code/flexTimer_pwm1.o
+ .debug_line    0x0000734b      0x51d ./Generated_Code/clockMan1.o
+ .debug_line    0x00007868      0x51b ./Generated_Code/adConv1.o
+
+.debug_str      0x00000000    0x600b2
+ .debug_str     0x00000000    0x5b662 ./Sources/main.o
+                              0x5b76c (size before relaxing)
+ .debug_str     0x0005b662      0x173 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                              0x58586 (size before relaxing)
+ .debug_str     0x0005b7d5      0x4a6 ./SDK/platform/drivers/src/pins/pins_driver.o
+                              0x5899a (size before relaxing)
+ .debug_str     0x0005bc7b      0x1cc ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+                              0x57e52 (size before relaxing)
+ .debug_str     0x0005be47      0x3c5 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+                              0x58ef9 (size before relaxing)
+ .debug_str     0x0005c20c      0x20e ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                              0x57b49 (size before relaxing)
+ .debug_str     0x0005c41a      0x714 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+                              0x59985 (size before relaxing)
+ .debug_str     0x0005cb2e       0xb9 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+                              0x585b1 (size before relaxing)
+ .debug_str     0x0005cbe7      0xa8d ./SDK/platform/drivers/src/ftm/ftm_common.o
+                              0x5a1b3 (size before relaxing)
+ .debug_str     0x0005d674      0x19a ./SDK/platform/drivers/src/clock/clock_manager.o
+                              0x59610 (size before relaxing)
+ .debug_str     0x0005d80e     0x1b82 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                              0x5aea8 (size before relaxing)
+ .debug_str     0x0005f390      0xa55 ./SDK/platform/drivers/src/adc/adc_driver.o
+                              0x58b1d (size before relaxing)
+ .debug_str     0x0005fde5      0x119 ./SDK/platform/devices/startup.o
+                              0x57870 (size before relaxing)
+ .debug_str     0x0005fefe       0xb1 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+                              0x57907 (size before relaxing)
+ .debug_str     0x0005ffaf       0x1c ./Generated_Code/pin_mux.o
+                              0x57c38 (size before relaxing)
+ .debug_str     0x0005ffcb       0x19 ./Generated_Code/pdb1.o
+                              0x58b1d (size before relaxing)
+ .debug_str     0x0005ffe4       0x67 ./Generated_Code/flexTimer_pwm1.o
+                              0x59095 (size before relaxing)
+ .debug_str     0x0006004b       0x4b ./Generated_Code/clockMan1.o
+                              0x59fea (size before relaxing)
+ .debug_str     0x00060096       0x1c ./Generated_Code/adConv1.o
+                              0x58d4e (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./Sources/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/clock/clock_manager.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .comment       0x00000000       0x71 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .comment       0x00000000       0x71 ./SDK/platform/devices/startup.o
+ .comment       0x00000000       0x71 ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .comment       0x00000000       0x71 ./Generated_Code/pin_mux.o
+ .comment       0x00000000       0x71 ./Generated_Code/pdb1.o
+ .comment       0x00000000       0x71 ./Generated_Code/flexTimer_pwm1.o
+ .comment       0x00000000       0x71 ./Generated_Code/clockMan1.o
+ .comment       0x00000000       0x71 ./Generated_Code/adConv1.o
+
+.debug_frame    0x00000000     0x3520
+ .debug_frame   0x00000000       0x50 ./Sources/main.o
+ .debug_frame   0x00000050       0x90 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_frame   0x000000e0      0x570 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_frame   0x00000650      0x190 ./SDK/platform/drivers/src/pdb/pdb_hw_access.o
+ .debug_frame   0x000007e0      0x470 ./SDK/platform/drivers/src/pdb/pdb_driver.o
+ .debug_frame   0x00000c50      0x148 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_frame   0x00000d98      0x634 ./SDK/platform/drivers/src/ftm/ftm_pwm_driver.o
+ .debug_frame   0x000013cc       0xd0 ./SDK/platform/drivers/src/ftm/ftm_hw_access.o
+ .debug_frame   0x0000149c      0x8b0 ./SDK/platform/drivers/src/ftm/ftm_common.o
+ .debug_frame   0x00001d4c       0x8c ./SDK/platform/drivers/src/clock/clock_manager.o
+ .debug_frame   0x00001dd8      0xd7c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_frame   0x00002b54      0x910 ./SDK/platform/drivers/src/adc/adc_driver.o
+ .debug_frame   0x00003464       0x30 ./SDK/platform/devices/startup.o
+ .debug_frame   0x00003494       0x6c ./SDK/platform/devices/S32K116/startup/system_S32K116.o
+ .debug_frame   0x00003500       0x20 c:/nxp/s32ds_arm_v2018.r1/cross_tools/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)

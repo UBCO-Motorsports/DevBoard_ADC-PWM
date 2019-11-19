@@ -1,0 +1,82 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="7">
+        <Line>"${ProjDirPath}/SDK/platform/drivers/src/clock/S32K1xx"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/src/ftm"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/common"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/S32K116/include"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/devices/S32K116/startup"</Line>
+        <Line>"${ProjDirPath}/SDK/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_S32K116_48"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="SDK/platform/drivers/src/pdb/pdb_hw_access.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615238" FileType="1048576" />
+      <File Name="Sources/main.c" FileDate="2019-11-18, 17:57:59" FileAge="1574128679809" FileType="128" />
+      <File Name="Generated_Code/pdb1.c" FileDate="2019-11-18, 17:56:55" FileAge="1574128615280" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2019-11-18, 17:58:23" FileAge="1574128703837" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841243" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841224" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pdb/pdb_hw_access.c" FileDate="2019-11-18, 17:56:55" FileAge="1574128615225" FileType="1048576" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2019-11-18, 17:58:23" FileAge="1574128703846" FileType="45637" CompNumb="2" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841215" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/clock_manager.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841252" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_hw_access.h" FileDate="2019-11-18, 17:19:47" FileAge="1574126387999" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841207" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_hw_access.c" FileDate="2019-11-18, 17:19:47" FileAge="1574126387975" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pdb/pdb_driver.c" FileDate="2019-11-18, 17:56:55" FileAge="1574128615214" FileType="1048576" />
+      <File Name="Documentation/PWMTEST2.txt" FileDate="2019-11-18, 17:56:55" FileAge="1574128615392" FileType="3072" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/scg_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841295" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pins/pins_driver.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841187" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/ftm_common.h" FileDate="2019-11-18, 17:19:48" FileAge="1574126388009" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_common.c" FileDate="2019-11-18, 17:19:47" FileAge="1574126387991" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_pwm_driver.c" FileDate="2019-11-18, 17:19:47" FileAge="1574126387981" FileType="1048576" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841339" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/pdb_driver.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615250" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/ftm_pwm_driver.h" FileDate="2019-11-18, 17:19:48" FileAge="1574126388018" FileType="1048576" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841349" FileType="1048576" />
+      <File Name="SDK/platform/devices/S32K116/startup/system_S32K116.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841379" FileType="1048576" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841369" FileType="1048576" />
+      <File Name="SDK/platform/devices/S32K116/startup/system_S32K116.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841381" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/adc_driver.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615200" FileType="1048576" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841376" FileType="1048576" />
+      <File Name="SDK/platform/devices/S32K116/include/S32K116.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841398" FileType="1048576" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615331" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/drivers/src/adc/adc_hw_access.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615188" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pcc_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841278" FileType="1048576" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2019-11-18, 17:19:48" FileAge="1574126388077" FileType="45637" CompNumb="1" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841358" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/adc/adc_driver.c" FileDate="2019-11-18, 17:56:55" FileAge="1574128615173" FileType="1048576" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841321" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/smc_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841312" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841270" FileType="1048576" />
+      <File Name="Generated_Code/adConv1.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615289" FileType="45637" CompNumb="6" />
+      <File Name="Documentation/PWMTEST2_Settings.xml" FileDate="2019-11-18, 17:56:55" FileAge="1574128615369" FileType="3072" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615314" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841262" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841304" FileType="1048576" />
+      <File Name="Generated_Code/adConv1.c" FileDate="2019-11-18, 17:56:55" FileAge="1574128615286" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2019-11-18, 17:56:55" FileAge="1574128615322" FileType="45637" CompNumb="3" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841333" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/pins/pins_gpio_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841198" FileType="1048576" />
+      <File Name="Generated_Code/flexTimer_pwm1.h" FileDate="2019-11-18, 17:19:48" FileAge="1574126388046" FileType="45637" CompNumb="5" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager.c" FileDate="2019-11-18, 17:10:41" FileAge="1574125841234" FileType="1048576" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pmc_hw_access.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841283" FileType="1048576" />
+      <File Name="SDK/platform/devices/common/s32_core_cm0.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841364" FileType="1048576" />
+      <File Name="SDK/platform/devices/S32K116/include/S32K116_features.h" FileDate="2019-11-18, 17:10:41" FileAge="1574125841387" FileType="1048576" />
+      <File Name="Generated_Code/pdb1.h" FileDate="2019-11-18, 17:56:55" FileAge="1574128615283" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/flexTimer_pwm1.c" FileDate="2019-11-18, 17:19:48" FileAge="1574126388044" FileType="45637" CompNumb="5" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>5</CodeGenReference>
+</CodeGenerationInfo>
